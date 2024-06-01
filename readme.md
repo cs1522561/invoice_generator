@@ -21,7 +21,8 @@ The email you want to send the invoices from. I used my personal email address.
 
 I needed to create an app password for my google account in order for this to work. Instructions about how to create an app password can be found here: https://support.google.com/accounts/answer/185833?hl=en
 
-![1717218729974](image/readme/1717218729974.png)
+![Screenshot 2024-06-01 171242](https://github.com/cs1522561/invoice_generator/assets/91705168/7017a550-920a-49dc-8136-e891485c6b25)
+
 
 When creating an app password it is generated in the format `XXXX XXXX XXXX XXXX`. When including the app password in the arguments it needs to have the spaces removed to be `XXXXXXXXXXXXXXXX`.
 
